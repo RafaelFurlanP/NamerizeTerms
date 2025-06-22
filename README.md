@@ -1,6 +1,6 @@
 # Terms of Use - Namerize
 
-**Last updated: January 2025**
+**Last updated: June 2025**
 
 ## 1. Acceptance of Terms
 
