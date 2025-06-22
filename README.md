@@ -62,7 +62,7 @@ You agree to:
 The App is provided "as is" without warranties of any kind, either express or implied.
 
 ### 7.2 Limitation of Liability
-In no event shall Rafael Furlan be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of the App.
+In no event shall Ivan Ziolkowski be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of the App.
 
 ## 8. Modifications to Terms
 
